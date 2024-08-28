@@ -36,5 +36,4 @@ Special tools This script contains are
 16. [dnscan](https://github.com/rbsec/dnscan.git) - For DNS scanning
 17. [SecList](https://github.com/danielmiessler/SecLists.git) - Huge means really huge file that contains lots of wordlists for different work
 
-Special Thanks and credits to [nahamsec](https://github.com/nahamsec) for this idea and a bit help XD
 Hope you will like this script. Use it well and if it is really helpful then do let me know. ;)
