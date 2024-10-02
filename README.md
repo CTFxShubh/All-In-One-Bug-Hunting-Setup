@@ -10,7 +10,7 @@ And its not gonna happen but if it asks for password in between please give the 
 # How to Setup
 It is very simple to setup and use this script. You just have to follow the following steps
 '''
-1. sudo git clone https://github.com/ShubhPatel9351/All-in-One-Bug-Hunting-Setup.git
+1. sudo git clone https://github.com/CTFxShubh/All-In-One-Bug-Hunting-Setup.git
 2. cd All-in-One-Bug-Hunting-Setup/
 3. chmod +x install.sh
 4. bash install.sh or ./install.sh
